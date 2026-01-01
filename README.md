@@ -11,9 +11,13 @@ This is my personal portfolio, showcasing a collection of projects and works I h
 ## ✨ Features
 
 ⚡ Fully responsive design for desktop, tablet, and mobile
+
 📝 Organized and professional project showcase
+
 🌐 Integration with social media and links to GitHub, LinkedIn, and other profiles
+
 🎨 Modern and minimal design with professional typography and color schemes
+
 🔒 Focus on simplicity and usability
 
 ## 🛠️ Technologies Used
