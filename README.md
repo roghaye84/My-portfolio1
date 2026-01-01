@@ -4,9 +4,11 @@ This is my personal portfolio, showcasing a collection of projects and works I h
 
 ## 🌟 Live Demo
 
-👉 View My Portfolio
+👉 [View Live Demo](https://roghaye84.github.io/My-portfolio1/)
+
 
 ## 🖼️ Preview
+![Portfolio Preview](https://github.com/roghaye84/My-portfolio1/blob/main/assest/Screenshot_1-1-2026_141840_roghaye84.github.io.jpeg)
 
 ## ✨ Features
 
@@ -30,12 +32,11 @@ JavaScript (for interactions and element toggles)
 
 Google Fonts & Font Awesome for styling and icons
 
-Some projects may use React, Tailwind, or other frameworks (optional)
 
 ## 🚀 How to Explore My Work
 
 You can view the projects online via the link above.
-
+git clone https://github.com/roghaye84/My-portfolio1
 Click on each project image or link to see detailed information.
 
 GitHub and social links are available to explore code and get in touch.
